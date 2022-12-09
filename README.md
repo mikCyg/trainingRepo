@@ -1,1 +1,1 @@
-# trainingRepo
+# Paragon z warzywniaka
